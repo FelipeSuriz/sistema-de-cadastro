@@ -7,3 +7,5 @@ node app.js
 ```
 
 > Status do projeto: Em desenvolvimento.
+
+:)
